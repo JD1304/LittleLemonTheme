@@ -58,7 +58,7 @@ fun MainComponent()
             color = Color(0xFFF4CE14)
         )
         Text(
-            text = "India",
+            text = "qwertyuiopasdfghjklzxcvbnm",
             fontSize = 32.sp,
             color = Color(0xFFF4CE14)
         )
